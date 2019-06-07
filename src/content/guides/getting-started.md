@@ -196,7 +196,7 @@ The 'mode' option has not been set. Set 'mode' option to 'development' or 'produ
 ```
 
 T> 输出可能会稍有不同，但是只要构建成功，那么你就可以继续。并且不要担心，稍后我们就会解决。
-
+版本4.33.0不能正常构建，但是未提示构建失败 只提示警告信息
 在浏览器中打开 `index.html`，如果一切访问都正常，你应该能看到以下文本：'Hello webpack'。
 
 
